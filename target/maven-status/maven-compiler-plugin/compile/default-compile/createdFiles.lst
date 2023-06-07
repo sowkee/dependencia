@@ -1,0 +1,5 @@
+com\credibanco\dependencia\Http\HttpService.class
+com\credibanco\dependencia\DependenciaApplication.class
+com\credibanco\dependencia\Utils\AsteriskLogicCard.class
+com\credibanco\dependencia\DTO\ResponseDTO.class
+com\credibanco\dependencia\DTO\RequestDTO.class
